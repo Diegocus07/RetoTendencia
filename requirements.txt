@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pycryptodome
+qiskit
+qiskit-aer
+python-multipart
